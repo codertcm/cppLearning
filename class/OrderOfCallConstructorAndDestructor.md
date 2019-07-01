@@ -41,4 +41,4 @@ int main(){
 
 ````
 
-![运行结果] (https://github.com/codertcm/pictures/blob/master/cb_console_runner_qcx0PS0n05.png)
+![运行结果](https://github.com/codertcm/pictures/blob/master/cb_console_runner_qcx0PS0n05.png)
